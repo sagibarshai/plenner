@@ -1,0 +1,364 @@
+[
+  {
+    "event_id": 1,
+    "owner_id": 1,
+    "full_name": "David Test",
+    "side": "bride",
+    "group": "family",
+    "phone_number": "+972533062400",
+    "email": "Christine_Jast15@hotmail.com",
+    "invited": true,
+    "extra_guests": 1,
+    "attending": 2
+  },
+  {
+    "full_name": "Christine Jast",
+    "side": "bride",
+    "group": "family",
+    "phone_number": "057-6309-113",
+    "email": "Christine_Jast15@hotmail.com",
+    "invited": true,
+    "extra_guests": 1,
+    "attending": 2
+  },
+  {
+    "full_name": "David Balistreri",
+    "side": "groom",
+    "group": "friends",
+    "phone_number": "054-9795-725",
+    "email": "David.Balistreri@yahoo.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 0
+  },
+  {
+    "full_name": "Zetta Bernier",
+    "side": "bride",
+    "group": "friends",
+    "phone_number": "058-6951-097",
+    "email": "Zetta.Bernier@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Jedediah Heathcote",
+    "side": "both",
+    "group": "work",
+    "phone_number": "052-5348-773",
+    "email": "Jedediah.Heathcote49@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "David O'Hara",
+    "side": "bride",
+    "group": "work",
+    "phone_number": "056-1391-467",
+    "email": "David.OHara67@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 0
+  },
+  {
+    "full_name": "Kamron Reynolds",
+    "side": "both",
+    "group": "close friends",
+    "phone_number": "052-6167-499",
+    "email": "Kamron.Reynolds13@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Kiana Braun",
+    "side": "bride",
+    "group": "close family",
+    "phone_number": "059-1606-114",
+    "email": "Kiana.Braun@hotmail.com",
+    "invited": true,
+    "extra_guests": 1,
+    "attending": 2
+  },
+  {
+    "full_name": "Clarabelle Greenholt",
+    "side": "groom",
+    "group": "close friends",
+    "phone_number": "056-7484-918",
+    "email": "Clarabelle11@yahoo.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 0
+  },
+  {
+    "full_name": "Henriette Parisian",
+    "side": "groom",
+    "group": "family",
+    "phone_number": "058-9702-797",
+    "email": "Henriette20@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Lina Rosenbaum",
+    "side": "bride",
+    "group": "family",
+    "phone_number": "055-4248-515",
+    "email": "Lina.Rosenbaum@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Gabriella Bednar",
+    "side": "bride",
+    "group": "family",
+    "phone_number": "057-7386-735",
+    "email": "Gabriella88@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Brock Hamill",
+    "side": "bride",
+    "group": "close family",
+    "phone_number": "053-6288-386",
+    "email": "Brock.Hamill@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Raphaelle Huel",
+    "side": "bride",
+    "group": "family",
+    "phone_number": "053-3027-128",
+    "email": "Raphaelle_Huel@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Bradly Hackett",
+    "side": "bride",
+    "group": "close friends",
+    "phone_number": "052-0325-425",
+    "email": "Bradly87@hotmail.com",
+    "invited": true,
+    "extra_guests": 2,
+    "attending": 3
+  },
+  {
+    "full_name": "Edwina Brakus",
+    "side": "bride",
+    "group": "work",
+    "phone_number": "051-0410-509",
+    "email": "Edwina_Brakus@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Rachael Lesch",
+    "side": "groom",
+    "group": "close friends",
+    "phone_number": "058-2705-809",
+    "email": "Rachael22@yahoo.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Aglae Feil",
+    "side": "groom",
+    "group": "close family",
+    "phone_number": "052-8127-293",
+    "email": "Aglae_Feil23@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Josue Stamm",
+    "side": "bride",
+    "group": "family",
+    "phone_number": "058-5908-633",
+    "email": "Josue_Stamm@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Rene Feest",
+    "side": "both",
+    "group": "work",
+    "phone_number": "058-3051-737",
+    "email": "Rene_Feest47@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Nathan Kunde",
+    "side": "bride",
+    "group": "family",
+    "phone_number": "052-1993-250",
+    "email": "Nathan30@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Dagmar Stamm",
+    "side": "both",
+    "group": "work",
+    "phone_number": "059-9967-805",
+    "email": "Dagmar_Stamm4@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Uriel Ryan",
+    "side": "groom",
+    "group": "family",
+    "phone_number": "054-4877-528",
+    "email": "Uriel_Ryan41@hotmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Gussie Kilback",
+    "side": "groom",
+    "group": "close friends",
+    "phone_number": "054-0584-017",
+    "email": "Gussie.Kilback35@hotmail.com",
+    "invited": true,
+    "extra_guests": 1,
+    "attending": 2
+  },
+  {
+    "full_name": "Edgar O'Connell",
+    "side": "groom",
+    "group": "close friends",
+    "phone_number": "050-5108-635",
+    "email": "Edgar.OConnell57@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Heber Armstrong",
+    "side": "both",
+    "group": "close friends",
+    "phone_number": "050-1209-124",
+    "email": "Heber_Armstrong@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Deontae Olson",
+    "side": "groom",
+    "group": "work",
+    "phone_number": "052-7859-608",
+    "email": "Deontae85@gmail.com",
+    "invited": true,
+    "extra_guests": 4,
+    "attending": 5
+  },
+  {
+    "full_name": "Charlene Cremin",
+    "side": "bride",
+    "group": "friends",
+    "phone_number": "054-7757-360",
+    "email": "Charlene4@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Lou Graham",
+    "side": "bride",
+    "group": "close family",
+    "phone_number": "051-3499-364",
+    "email": "Lou_Graham@hotmail.com",
+    "invited": true,
+    "extra_guests": 1,
+    "attending": 2
+  },
+  {
+    "full_name": "Bernita Johnson",
+    "side": "bride",
+    "group": "close friends",
+    "phone_number": "059-7740-212",
+    "email": "Bernita_Johnson@yahoo.com",
+    "invited": true,
+    "extra_guests": 3,
+    "attending": 4
+  },
+  {
+    "full_name": "Kaleigh Schuppe",
+    "side": "both",
+    "group": "work",
+    "phone_number": "059-3750-882",
+    "email": "Kaleigh89@yahoo.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Rosalinda Blick",
+    "side": "both",
+    "group": "friends",
+    "phone_number": "053-7536-251",
+    "email": "Rosalinda_Blick64@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Stanford Herzog",
+    "side": "groom",
+    "group": "family",
+    "phone_number": "051-3089-244",
+    "email": "Stanford.Herzog@yahoo.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Beaulah Parker",
+    "side": "both",
+    "group": "close friends",
+    "phone_number": "056-5167-652",
+    "email": "Beaulah0@yahoo.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Taryn Gaylord",
+    "side": "groom",
+    "group": "close friends",
+    "phone_number": "055-3922-961",
+    "email": "Taryn59@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  },
+  {
+    "full_name": "Retta Gottlieb",
+    "side": "both",
+    "group": "work",
+    "phone_number": "055-5194-224",
+    "email": "Retta.Gottlieb41@gmail.com",
+    "invited": true,
+    "extra_guests": 0,
+    "attending": 1
+  }
+]

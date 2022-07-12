@@ -1,0 +1,22 @@
+{
+  "name": "migrator",
+  "version": "1.0.0",
+  "description": "Moontower data migrations repository",
+  "scripts": {
+    "pg-migrate-up": "db-migrate up -e postgres",
+    "pg-migrate-up-dryrun": "db-migrate up -e postgres --dry-run",
+    "pg-migrate-down": "db-migrate down -e postgres",
+    "pg-migrate-reset": "db-migrate reset -e postgres",
+    "pg-create": "db-migrate --env postgres create"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "db-migrate": "0.11.12",
+    "db-migrate-pg": "^1.2.2",
+    "dotenv": "10.0.0",
+    "lodash": "^4.17.19",
+    "pg": "^8.7.3"
+  }
+}
