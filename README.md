@@ -21,3 +21,7 @@ npm run pg-migrate-up
 ```
 
 REMEMBER TO PULL `main` CODE EVERY DAY
+
+
+The application includes: check guest status, mange check list and guest list, edit and send invitation message, auto sitting arrangement and more features.
+
